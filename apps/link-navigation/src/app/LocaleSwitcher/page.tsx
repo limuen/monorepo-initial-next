@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Button } from "@repo/ui/button";
 
@@ -16,6 +17,7 @@ export default function LocaleSwitcher() {
     <>
       <Button onClick={() => switchLocale("en")}>English</Button>
       <Button onClick={() => switchLocale("fr")}>French</Button>
+      <Link href="/dashboard">Dashboard</Link>
     </>
   );
 }

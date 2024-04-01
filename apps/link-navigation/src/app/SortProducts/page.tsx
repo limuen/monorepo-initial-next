@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Button } from "@repo/ui/button";
 
@@ -16,6 +17,7 @@ export default function SortProducts() {
     <>
       <Button onClick={() => updateSorting("asc")}>Sort Ascending</Button>
       <Button onClick={() => updateSorting("desc")}>Sort Descending</Button>
+      <Link href="/dashboard">Dashboard</Link>
     </>
   );
 }
