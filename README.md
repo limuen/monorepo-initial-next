@@ -1,2 +1,2 @@
-- 初识App Router (apps/app-router)
-- 链接与导航 (apps/link-navigation)
+- [初识App Router (apps/app-router)](https://github.com/limuen/monorepo-initial-next/blob/main/apps/app-router/app/dashboard/page.tsx)
+- [链接与导航 (apps/link-navigation)](https://github.com/limuen/monorepo-initial-next/blob/main/apps/link-navigation/src/app/dashboard/page.tsx)
