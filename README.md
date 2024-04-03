@@ -1,2 +1,3 @@
 - [初识App Router (apps/app-router)](https://github.com/limuen/monorepo-initial-next/blob/main/apps/app-router/app/dashboard/page.tsx)
 - [链接与导航 (apps/link-navigation)](https://github.com/limuen/monorepo-initial-next/blob/main/apps/link-navigation/src/app/dashboard/page.tsx)
+- [动态路由、路由组、平行路由、拦截路由](https://github.com/limuen/monorepo-initial-next/blob/main/apps/dynamic-router/src/app/page.tsx)
