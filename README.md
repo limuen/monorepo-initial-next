@@ -4,3 +4,4 @@
 - [路由处理程序（apps/routing-processing-order)](https://github.com/limuen/monorepo-initial-next/tree/main/apps/routing-processing-order)
 - [中间件（apps/middleware)](https://github.com/limuen/monorepo-initial-next/tree/main/apps/middleware)
 - [Suspense与Streaming(apps/suspense-streaming)](https://github.com/limuen/monorepo-initial-next/tree/main/apps/suspense-streaming)
+- [服务端组件和客户端组件(apps/ssr-csr-component)](https://github.com/limuen/monorepo-initial-next/tree/main/apps/ssr-csr-component)
