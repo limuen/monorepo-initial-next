@@ -7,3 +7,5 @@
 ## 渲染
 - [Suspense与Streaming](https://github.com/limuen/monorepo-initial-next/tree/main/apps/suspense-streaming)
 - [服务端组件和客户端组件](https://github.com/limuen/monorepo-initial-next/tree/main/apps/ssr-csr-component)
+## 数据获取
+- [Server Actions](https://github.com/limuen/monorepo-initial-next/tree/main/apps/server-actions)
