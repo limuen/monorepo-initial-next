@@ -279,6 +279,46 @@ importers:
         specifier: ^5.3.3
         version: 5.3.3
 
+  apps/server-actions1:
+    dependencies:
+      '@repo/ui':
+        specifier: workspace:*
+        version: link:../../packages/ui
+      next:
+        specifier: 14.2.3
+        version: 14.2.3(react-dom@18.2.0)(react@18.2.0)
+      react:
+        specifier: ^18
+        version: 18.2.0
+      react-dom:
+        specifier: ^18
+        version: 18.2.0(react@18.2.0)
+    devDependencies:
+      '@types/node':
+        specifier: ^20
+        version: 20.11.24
+      '@types/react':
+        specifier: ^18
+        version: 18.2.61
+      '@types/react-dom':
+        specifier: ^18
+        version: 18.2.19
+      eslint:
+        specifier: ^8
+        version: 8.57.0
+      eslint-config-next:
+        specifier: 14.2.3
+        version: 14.2.3(eslint@8.57.0)(typescript@5.3.3)
+      postcss:
+        specifier: ^8
+        version: 8.4.31
+      tailwindcss:
+        specifier: ^3.4.1
+        version: 3.4.3
+      typescript:
+        specifier: ^5
+        version: 5.3.3
+
   apps/ssr-csr-component:
     dependencies:
       next:
